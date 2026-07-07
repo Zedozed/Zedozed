@@ -3141,8 +3141,435 @@ Release Management
 
 <br>
 
+<!-- ===============================================================
+              SECTION 18: GITHUB ANALYTICS
+================================================================ -->
+
+
+<h1 align="center">
+
+📊 GITHUB ANALYTICS
+
+</h1>
+
+
+<p align="center">
+
+My coding activity, achievements, contributions, and developer journey.
+
+</p>
+
+
+
+<br>
+
 
 
 <!-- ===============================================================
-              END OF PART 5
+              GITHUB STATS CARDS
+================================================================ -->
+
+
+<h2 align="center">
+
+🔥 CODING STATISTICS
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Zedozed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
+width="48%"
+/>
+
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Zedozed&theme=radical&hide_border=true&background=0D1117&stroke=00DBDE&ring=FC00FF&fire=00DBDE&currStreakNum=FFFFFF&sideNums=00DBDE&currStreakLabel=FC00FF&sideLabels=FFFFFF"
+width="48%"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              LANGUAGE STATISTICS
+================================================================ -->
+
+
+<h2 align="center">
+
+💻 PROGRAMMING LANGUAGE STATISTICS
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
+width="45%"
+/>
+
+
+
+<img
+src="https://github-readme-stats.vercel.app/api/wakatime?username=Zedozed&theme=radical&hide_border=true&bg_color=0D1117"
+width="45%"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              ACTIVITY GRAPH
+================================================================ -->
+
+
+<h2 align="center">
+
+📈 CONTRIBUTION ACTIVITY
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Zedozed&bg_color=0D1117&color=FFFFFF&line=00DBDE&point=FC00FF&area=true&hide_border=true"
+width="95%"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              CONTRIBUTION SNAKE
+================================================================ -->
+
+
+<h2 align="center">
+
+🐍 CONTRIBUTION SNAKE
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img
+src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg"
+alt="Contribution Snake"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              GITHUB TROPHIES
+================================================================ -->
+
+
+<h2 align="center">
+
+🏆 GITHUB ACHIEVEMENTS
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&no-frame=true&no-bg=true&row=2&column=4"
+width="90%"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              PROFILE METRICS
+================================================================ -->
+
+
+<h2 align="center">
+
+⚡ DEVELOPER METRICS
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img
+src="https://metrics.lecoq.io/Zedozed?template=classic&base.header=0&base.activity=1&base.repositories=1&base.metadata=1&achievements=1&languages=1&repositories=1"
+width="90%"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              GITHUB PROFILE SUMMARY
+================================================================ -->
+
+
+<h2 align="center">
+
+🚀 DEVELOPER PROFILE SUMMARY
+
+</h2>
+
+
+
+<div align="center">
+
+
+<table>
+
+
+<tr>
+
+
+<td align="center" width="25%">
+
+
+<h3>⭐ Focus</h3>
+
+
+<p>
+
+Artificial Intelligence
+
+<br>
+
+Machine Learning
+
+<br>
+
+Full Stack Systems
+
+</p>
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+<h3>🔥 Building</h3>
+
+
+<p>
+
+AI Applications
+
+<br>
+
+Cloud Systems
+
+<br>
+
+Digital Platforms
+
+</p>
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+<h3>🌱 Learning</h3>
+
+
+<p>
+
+LLMs
+
+<br>
+
+MLOps
+
+<br>
+
+Kubernetes
+
+</p>
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+<h3>🤝 Open For</h3>
+
+
+<p>
+
+Collaboration
+
+<br>
+
+Research
+
+<br>
+
+Open Source
+
+</p>
+
+
+</td>
+
+
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              GITHUB ACHIEVEMENT BADGES
+================================================================ -->
+
+
+<h2 align="center">
+
+🎖️ PROFESSIONAL BADGES
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+
+
+<img src="https://img.shields.io/badge/AI%20Engineer-Innovation-blue?style=for-the-badge&logo=openai"/>
+
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react"/>
+
+
+<img src="https://img.shields.io/badge/Cloud-Native-orange?style=for-the-badge&logo=docker"/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              CODING PHILOSOPHY
+================================================================ -->
+
+
+<h2 align="center">
+
+💡 CODING PHILOSOPHY
+
+</h2>
+
+
+
+<p align="center">
+
+
+"Great software is not only written with code,
+
+but with creativity, architecture, and purpose."
+
+
+</p>
+
+
+
+<p align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00DBDE&center=true&width=800&lines=Building+AI+Systems+for+Real+World+Impact;Creating+Technology+for+Africa+and+Beyond;Learning+Every+Day+%F0%9F%9A%80"
+/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              END OF PART 6
 ================================================================ -->
