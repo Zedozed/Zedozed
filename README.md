@@ -822,59 +822,96 @@ Real-World Impact
 <br><br>
 
 
+<div align="center">
 
 <table>
 
-
 <tr>
 
+<td width="33%" align="center">
 
+<h3>🤖 Artificial Intelligence</h3>
+
+<p>
+🧠 Machine Learning
+<br>
+🔥 Deep Learning
+<br>
+💬 Natural Language Processing
+<br>
+👁 Computer Vision
+<br>
+✨ Generative AI
+<br>
+🧩 AI Agents
+</p>
+
+</td>
 <td align="center">
 
+<h3>🧠 Deep Learning</h3>
 
-<h3>🧠 Artificial Intelligence</h3>
+<p>
+🔥 Neural Networks
+<br>
+👁 Computer Vision
+<br>
+🧬 CNN / RNN
+<br>
+⚡ Transformers
+<br>
+🤖 Deep Learning Models
+</p>
 
+</td>
 
-```
-Machine Learning
-Deep Learning
-Natural Language Processing
-Computer Vision
-Generative AI
-Large Language Models
-AI Agents
-```
+<td width="33%" align="center">
 
+<h3>⚙️ Software Engineering</h3>
+
+<p>
+🏗 System Architecture
+<br>
+🔌 REST APIs
+<br>
+🧩 Microservices
+<br>
+☁️ Cloud Applications
+<br>
+🗄 Database Design
+<br>
+🐳 DevOps
+</p>
 
 </td>
 
 
+<td width="33%" align="center">
 
-<td align="center">
+<h3>📊 Data Science</h3>
 
-
-<h3>⚙️ Software Engineering</h3>
-
-
-```
-System Architecture
-REST APIs
-Microservices
-Cloud Applications
-Database Design
-DevOps
-```
-
+<p>
+🐍 Python Analytics
+<br>
+📈 Data Visualization
+<br>
+🔬 Predictive Modeling
+<br>
+📚 Statistics
+<br>
+🧮 Data Processing
+<br>
+🚀 ML Pipelines
+</p>
 
 </td>
 
 
 </tr>
 
-
 </table>
 
-
+</div>
 </div>
 
 
