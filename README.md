@@ -23,19 +23,15 @@ width="100%"
 />
 </p>
 
-
-
 <!-- ===============================================================
                     SECTION 2: TYPING ANIMATION
 ================================================================ -->
 
 <p align="center">
-
 <img 
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00DBDE&center=true&vCenter=true&width=900&height=80&lines=Hello%2C+I'm+Zedingil+Zelalem+%F0%9F%91%8B;AI+Engineer+%26+Data+Scientist;Machine+Learning+Engineer;Full+Stack+Software+Developer;Next.js+%7C+React+%7C+Python+Expert;Building+AI+Solutions+for+Real+World+Problems;Innovating+Technology+in+Africa+%F0%9F%87%AA%F0%9F%87%B9;Code+With+Purpose+%F0%9F%9A%80"
 alt="Typing Animation"
 />
-
 </p>
 
 
@@ -121,75 +117,7 @@ My work combines:
 
 
 I enjoy transforming complex problems into elegant technology solutions.
-
-
-
 <br>
-
-
-### 🔭 Currently Building
-
-
-🌾 **EthioAgriLink**
-
-An AI-powered agricultural platform designed to connect Ethiopian farmers with:
-
-- Smart crop recommendations
-- Agricultural prediction models
-- Weather intelligence
-- Digital marketplaces
-- AI farming assistance
-
-
-
-<br>
-
-
-### 🌱 Currently Learning
-
-
-- Large Language Model Engineering
-- Generative AI
-- MLOps
-- Kubernetes
-- Cloud Architecture
-- Distributed Systems
-- Advanced Database Engineering
-
-
-
-<br>
-
-
-### 💬 Ask Me About
-
-
-- Python
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- Next.js
-- React
-- TypeScript
-- Node.js
-- PostgreSQL
-- Prisma
-- Software Architecture
-
-
-
-<br>
-
-
-### 🎯 My Mission
-
-
-To create intelligent technologies that solve real-world challenges and contribute to digital transformation in Africa and beyond.
-
-
-
-</td>
-
 </tr>
 
 </table>
