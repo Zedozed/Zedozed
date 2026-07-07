@@ -359,13 +359,11 @@ width="100%"
 <br>
 
 
-
 <!-- ===============================================================
                     SECTION 8: QUICK FACTS
 ================================================================ -->
 
-
-<h2>
+<h2 align="center">
 
 ⚡ QUICK FACTS
 
@@ -381,11 +379,9 @@ role:
   - Full Stack Developer
   - Software Engineer
 
-
 location:
   country: Ethiopia
   continent: Africa
-
 
 specialization:
   - Artificial Intelligence
@@ -393,12 +389,10 @@ specialization:
   - Web Engineering
   - Data Analytics
 
-
 favorite_languages:
   - Python
   - TypeScript
   - JavaScript
-
 
 favorite_frameworks:
   - Next.js
@@ -406,22 +400,17 @@ favorite_frameworks:
   - FastAPI
   - Node.js
 
-
 databases:
   - PostgreSQL
   - MySQL
   - MongoDB
 
-
 currently_building:
   - EthioAgriLink
   - AI Powered Platforms
 
-
 goal:
   "Build technology that creates global impact"
 ```
-
-
 
 <!-- END OF PART 1 -->
