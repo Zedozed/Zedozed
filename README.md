@@ -254,42 +254,6 @@
     </tr>
   </table>
 </div>
-
-<br>
-
-<!-- ============================================================
-                    SECTION 8: QUICK FACTS
-================================================================ -->
-
-<h2 align="center">⚡ QUICK FACTS</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>👨‍💻 Professional Identity</h3>
-        <img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Data%20Scientist-Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Software-Engineer-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🌍 Location & Vision</h3>
-        <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-009639?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Building-For%20Africa-FFB000?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Open%20To-Global%20Opportunities-4285F4?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Mission-AI%20For%20Impact-FC00FF?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br>
 
 <!-- ============================================================
@@ -328,52 +292,6 @@
     </tr>
   </table>
 </div>
-
-<br>
-
-<!-- ============================================================
-                    SECTION 10: MISSION STATEMENT
-================================================================ -->
-
-<h2 align="center">🎯 My Mission</h2>
-
-<p align="center">My goal is to design and develop technology solutions that combine:</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="28%">
-        <h3>🤖</h3>
-        <b>Artificial Intelligence</b>
-      </td>
-      <td align="center" width="8%">
-        <h1>+</h1>
-      </td>
-      <td align="center" width="28%">
-        <h3>⚙️</h3>
-        <b>Software Engineering</b>
-      </td>
-      <td align="center" width="8%">
-        <h1>+</h1>
-      </td>
-      <td align="center" width="28%">
-        <h3>🎨</h3>
-        <b>Human-Centered Design</b>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" align="center">
-        <h1>⬇️</h1>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" align="center">
-        <h2>🌍 Real-World Impact</h2>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br>
 
 <!-- ============================================================
@@ -404,8 +322,7 @@
 <h3 align="center">💻 Language Statistics</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
     width="55%"
   />
 </p>
@@ -416,8 +333,7 @@
 <h3 align="center">📈 Coding Activity</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Zedozed&bg_color=0D1117&color=FFFFFF&line=00DBDE&point=FC00FF&area=true&hide_border=true"
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zedozed&bg_color=0D1117&color=FFFFFF&line=00DBDE&point=FC00FF&area=true&hide_border=true"
     width="95%"
   />
 </p>
@@ -431,9 +347,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
-    <img 
-      alt="Contribution Snake" 
-      src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg"
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
@@ -444,8 +358,7 @@
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&margin-w=15&margin-h=15&no-frame=true"
+<img src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&margin-w=15&margin-h=15&no-frame=true"
 />
 </p>
 
@@ -462,8 +375,7 @@ src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&ma
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00DBDE&center=true&width=800&lines=Building+AI+Systems+for+Real+World+Impact;Creating+Technology+for+Africa+and+Beyond;Learning+Every+Day+%F0%9F%9A%80"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00DBDE&center=true&width=800&lines=Building+AI+Systems+for+Real+World+Impact;Creating+Technology+for+Africa+and+Beyond;Learning+Every+Day+%F0%9F%9A%80"
   />
 </p>
 
