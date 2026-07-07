@@ -358,59 +358,76 @@ width="100%"
 
 <br>
 
-
 <!-- ===============================================================
                     SECTION 8: QUICK FACTS
 ================================================================ -->
 
+
 <h2 align="center">
-
 ⚡ QUICK FACTS
-
 </h2>
 
 
-```yaml
-name: Zedingil Zelalem
+<table align="center">
 
-role:
-  - AI Engineer
-  - Data Scientist
-  - Full Stack Developer
-  - Software Engineer
+<tr>
+<td align="center">👨‍💻 Role</td>
+<td>AI Engineer | Data Scientist | Full Stack Developer | Software Engineer</td>
+</tr>
 
-location:
-  country: Ethiopia
-  continent: Africa
 
-specialization:
-  - Artificial Intelligence
-  - Machine Learning
-  - Web Engineering
-  - Data Analytics
+<tr>
+<td align="center">🌍 Location</td>
+<td>Ethiopia 🇪🇹 | Africa</td>
+</tr>
 
-favorite_languages:
-  - Python
-  - TypeScript
-  - JavaScript
 
-favorite_frameworks:
-  - Next.js
-  - React
-  - FastAPI
-  - Node.js
+<tr>
+<td align="center">🤖 AI Focus</td>
+<td>Machine Learning | Deep Learning | Generative AI | LLM Engineering</td>
+</tr>
 
-databases:
-  - PostgreSQL
-  - MySQL
-  - MongoDB
 
-currently_building:
-  - EthioAgriLink
-  - AI Powered Platforms
+<tr>
+<td align="center">📊 Data Science</td>
+<td>Python | Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch</td>
+</tr>
 
-goal:
-  "Build technology that creates global impact"
-```
+
+<tr>
+<td align="center">🌐 Frontend</td>
+<td>Next.js | React | TypeScript | Tailwind CSS</td>
+</tr>
+
+
+<tr>
+<td align="center">⚙️ Backend</td>
+<td>Node.js | Express | FastAPI | PHP | CodeIgniter</td>
+</tr>
+
+
+<tr>
+<td align="center">🗄 Database</td>
+<td>PostgreSQL | MySQL | MongoDB | Prisma</td>
+</tr>
+
+
+<tr>
+<td align="center">🚀 Current Project</td>
+<td>EthioAgriLink - AI Agricultural Platform</td>
+</tr>
+
+
+<tr>
+<td align="center">🎯 Mission</td>
+<td>Build intelligent systems that create global impact</td>
+</tr>
+
+
+</table>
+
+
+<br>
+
 
 <!-- END OF PART 1 -->
