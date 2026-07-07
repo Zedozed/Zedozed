@@ -846,24 +846,6 @@ Real-World Impact
 🧩 AI Agents
 </p>
 
-</td>
-<td align="center">
-
-<h3>🧠 Deep Learning</h3>
-
-<p>
-🔥 Neural Networks
-<br>
-👁 Computer Vision
-<br>
-🧬 CNN / RNN
-<br>
-⚡ Transformers
-<br>
-🤖 Deep Learning Models
-</p>
-
-</td>
 
 <td width="33%" align="center">
 
@@ -1232,7 +1214,556 @@ I use AI to automate processes and create intelligent experiences.
 
 <br>
 
+<!-- ===============================================================
+              SECTION 13: TECHNOLOGY ARSENAL
+================================================================ -->
+
+
+<h1 align="center">
+
+🛠️ TECHNOLOGY ARSENAL
+
+</h1>
+
+
+<p align="center">
+
+Building intelligent systems with modern Artificial Intelligence,
+Data Science, and Software Engineering technologies.
+
+</p>
+
+
+<br>
+
+
 
 <!-- ===============================================================
-                 END OF PART 2
+              ARTIFICIAL INTELLIGENCE
 ================================================================ -->
+
+
+<h2 align="center">
+
+🤖 ARTIFICIAL INTELLIGENCE
+
+</h2>
+
+
+<p align="center">
+
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Expert-00DBDE?style=for-the-badge&logo=openai&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Generative%20AI-LLM%20Apps-8A2BE2?style=for-the-badge"/>
+
+
+</p>
+
+
+
+<div align="center">
+
+
+<table>
+
+
+<tr>
+
+
+<td width="33%" align="center">
+
+
+<h3>🧠 Machine Learning</h3>
+
+
+<p>
+
+📌 Supervised Learning
+
+<br>
+
+📌 Unsupervised Learning
+
+<br>
+
+📌 Regression Models
+
+<br>
+
+📌 Classification
+
+<br>
+
+📌 Clustering
+
+<br>
+
+📌 Feature Engineering
+
+<br>
+
+📌 Model Evaluation
+
+<br>
+
+📌 Predictive Analytics
+
+</p>
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+<h3>🔥 Deep Learning</h3>
+
+
+<p>
+
+🧬 Neural Networks
+
+<br>
+
+👁 Computer Vision
+
+<br>
+
+🧠 CNN Architectures
+
+<br>
+
+🔄 RNN Networks
+
+<br>
+
+⚡ Transformers
+
+<br>
+
+🎯 Model Optimization
+
+<br>
+
+🚀 GPU Computing
+
+</p>
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+<h3>💬 Generative AI</h3>
+
+
+<p>
+
+✨ Large Language Models
+
+<br>
+
+🤖 AI Agents
+
+<br>
+
+🔎 RAG Systems
+
+<br>
+
+📝 Prompt Engineering
+
+<br>
+
+🔧 Fine Tuning
+
+<br>
+
+🧩 LLM Applications
+
+<br>
+
+🌐 AI Automation
+
+</p>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              AI FRAMEWORKS
+================================================================ -->
+
+
+<h2 align="center">
+
+⚡ AI FRAMEWORKS & LIBRARIES
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+
+</p>
+
+
+
+<p align="center">
+
+
+<img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+
+</p>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              DATA SCIENCE
+================================================================ -->
+
+
+<h2 align="center">
+
+📊 DATA SCIENCE & ANALYTICS
+
+</h2>
+
+
+
+<div align="center">
+
+
+<table>
+
+
+<tr>
+
+
+<td align="center">
+
+
+<h3>📈 Data Processing</h3>
+
+
+<p>
+
+🐍 Python
+
+<br>
+
+🐼 Pandas
+
+<br>
+
+🔢 NumPy
+
+<br>
+
+🧮 Data Cleaning
+
+<br>
+
+⚙️ ETL Pipelines
+
+<br>
+
+📂 Data Preparation
+
+</p>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>📊 Visualization</h3>
+
+
+<p>
+
+📉 Matplotlib
+
+<br>
+
+📊 Plotly
+
+<br>
+
+🎨 Seaborn
+
+<br>
+
+📈 Power BI
+
+<br>
+
+📌 Tableau
+
+<br>
+
+🌐 Dashboard Design
+
+</p>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>🔬 Data Modeling</h3>
+
+
+<p>
+
+🎯 Statistical Analysis
+
+<br>
+
+🔮 Forecasting
+
+<br>
+
+📚 Predictive Models
+
+<br>
+
+🧠 Feature Selection
+
+<br>
+
+⚡ Model Validation
+
+</p>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              COMPUTER VISION & NLP
+================================================================ -->
+
+
+<h2 align="center">
+
+👁 COMPUTER VISION & NLP
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/LLMs-Applications-black?style=for-the-badge"/>
+
+
+</p>
+
+
+
+<div align="center">
+
+
+<table>
+
+
+<tr>
+
+
+<td align="center">
+
+
+<h3>👁 Vision AI</h3>
+
+
+<p>
+
+Image Classification
+
+<br>
+
+Object Detection
+
+<br>
+
+Image Processing
+
+<br>
+
+Computer Vision Models
+
+<br>
+
+Visual Intelligence
+
+</p>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>💬 NLP</h3>
+
+
+<p>
+
+Text Processing
+
+<br>
+
+Sentiment Analysis
+
+<br>
+
+Language Models
+
+<br>
+
+Text Generation
+
+<br>
+
+Question Answering
+
+</p>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+
+<br>
+
+
+
+<!-- ===============================================================
+              AI PROJECT APPLICATIONS
+================================================================ -->
+
+
+<h2 align="center">
+
+🚀 AI APPLICATION AREAS
+
+</h2>
+
+
+
+<p align="center">
+
+
+<img src="https://img.shields.io/badge/🌱%20Agriculture-AI%20Solutions-success?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/🏥%20Healthcare-Intelligent%20Systems-red?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/🏦%20Business-Data%20Analytics-blue?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/🌍%20Africa-Digital%20Transformation-orange?style=for-the-badge"/>
+
+
+</p>
+
+
+<br>
+
+
+<!-- END OF PART 3 -->
