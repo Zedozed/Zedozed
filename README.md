@@ -1,4 +1,3 @@
-
 <!--
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🚀 ZEDINGIL ZELALEM | AI ENGINEER & FULL STACK DEVELOPER
@@ -162,17 +161,19 @@ I'm currently building innovative solutions in:
 💡 WHAT I OFFER
 <table> <tr> <td width="33%" align="center"> <h3>🤖 AI & Data Science</h3> <ul align="left"> <li>Machine Learning Models</li> <li>Deep Learning Solutions</li> <li>Natural Language Processing</li> <li>Computer Vision</li> <li>Data Analysis & Visualization</li> <li>Predictive Modeling</li> </ul> </td> <td width="33%" align="center"> <h3>🌐 Full Stack Development</h3> <ul align="left"> <li>Next.js & React Applications</li> <li>TypeScript & JavaScript</li> <li>PHP/CodeIgniter Projects</li> <li>RESTful APIs & Microservices</li> <li>Responsive Web Design</li> <li>Progressive Web Apps</li> </ul> </td> <td width="34%" align="center"> <h3>⚙️ Software Engineering</h3> <ul align="left"> <li>System Architecture Design</li> <li>DevOps & CI/CD Pipelines</li> <li>Docker & Kubernetes</li> <li>Database Design & Optimization</li> <li>Cloud Computing Solutions</li> <li>Technical Consulting</li> </ul> </td> </tr> </table><!-- ============================================================ SECTION 10: CURRENT FOCUS & LEARNING ============================================================ -->
 📈 CURRENT FOCUS
-graph TD
-    A[AI Engineering] --> B[LLM Fine-tuning]
-    A --> C[MLOps]
-    A --> D[Model Deployment]
-    E[Full Stack] --> F[Next.js 14]
-    E --> G[Microservices]
-    E --> H[API Design]
-    I[Learning] --> J[Kubernetes]
-    I --> K[Advanced Python]
-    I --> L[Cloud Architecture]
-    I --> M[System Design]
+
+
+
+
+
+
+
+
+
+
+
+
+
 🎯 What I'm Working On:
 🧠 Building advanced AI models for agricultural applications
 
