@@ -444,10 +444,9 @@
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&no-frame=true&no-bg=true&row=2&column=4"
-    width="90%"
-  />
+<img
+src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&margin-w=15&margin-h=15&no-frame=true"
+/>
 </p>
 
 <br>
