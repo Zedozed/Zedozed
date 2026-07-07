@@ -1,10 +1,259 @@
+/* ============================================================
+   FONTS & BASE IMPORTS
+================================================================ */
+
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* ============================================================
+   ROOT VARIABLES - DARK THEME
+================================================================ */
 
-@layer base {
+:root {
+  --background: 222 47% 7%;
+  --foreground: 210 40% 96%;
+  --card: 222 44% 10%;
+  --card-foreground: 210 40% 96%;
+  --popover: 222 47% 9%;
+  --popover-foreground: 210 40% 96%;
+  --primary: 199 89% 48%;
+  --primary-foreground: 210 40% 98%;
+  --secondary: 217 33% 17%;
+  --secondary-foreground: 210 40% 96%;
+  --muted: 217 33% 14%;
+  --muted-foreground: 215 20% 65%;
+  --accent: 280 70% 60%;
+  --accent-foreground: 210 40% 98%;
+  --destructive: 0 72% 51%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 217 33% 17%;
+  --input: 217 33% 20%;
+  --ring: 199 89% 48%;
+  --radius: 0.625rem;
+  --font-heading: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-display: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --success: 142 71% 45%;
+  --warning: 38 92% 50%;
+  --info: 199 89% 48%;
+}
+
+/* ============================================================
+   BASE STYLES
+================================================================ */
+
+* {
+  border-color: hsl(var(--border));
+  outline-color: hsl(var(--ring) / 0.5);
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================================
+   GLOW EFFECTS - HOVER ANIMATIONS
+================================================================ */
+
+/* Universal glow on hover */
+.glow-on-hover {
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-on-hover:hover {
+  transform: scale(1.08);
+  filter: drop-shadow(0 0 25px rgba(0, 219, 222, 0.5));
+}
+
+/* Blue glow for blue badges */
+.glow-blue {
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-blue:hover {
+  transform: scale(1.08);
+  filter: drop-shadow(0 0 25px rgba(0, 100, 255, 0.5));
+}
+
+/* Pink glow for pink badges */
+.glow-pink {
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-pink:hover {
+  transform: scale(1.08);
+  filter: drop-shadow(0 0 25px rgba(252, 0, 255, 0.5));
+}
+
+/* Gold glow for gold badges */
+.glow-gold {
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-gold:hover {
+  transform: scale(1.08);
+  filter: drop-shadow(0 0 25px rgba(255, 215, 0, 0.5));
+}
+
+/* Primary cyan glow */
+.glow-primary {
+  box-shadow: 0 0 20px -4px hsl(199 89% 48% / 0.5);
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-primary:hover {
+  box-shadow: 0 0 40px -4px hsl(199 89% 48% / 0.8);
+  transform: scale(1.05);
+}
+
+/* Accent purple glow */
+.glow-accent {
+  box-shadow: 0 0 20px -4px hsl(280 70% 60% / 0.5);
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-accent:hover {
+  box-shadow: 0 0 40px -4px hsl(280 70% 60% / 0.8);
+  transform: scale(1.05);
+}
+
+/* ============================================================
+   CARD & CONTAINER STYLES
+================================================================ */
+
+.card {
+  background-color: hsl(var(--card));
+  border-radius: var(--radius);
+  border: 1px solid hsl(var(--border));
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 0 30px -4px hsl(199 89% 48% / 0.3);
+  border-color: hsl(199 89% 48% / 0.3);
+}
+
+/* ============================================================
+   SCROLLBAR STYLING
+================================================================ */
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: hsl(217 33% 22%) transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: hsl(217 33% 22%);
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background-color: hsl(217 33% 30%);
+}
+
+/* ============================================================
+   GRID PATTERN BACKGROUND
+================================================================ */
+
+.grid-pattern {
+  background-image: radial-gradient(circle at 1px 1px, hsl(217 33% 18%) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* ============================================================
+   ANIMATED BACKGROUND
+================================================================ */
+
+.animated-bg {
+  background: linear-gradient(-45deg, #0a0a1a, #1a0a2e, #0a1a2e, #1a0a0a);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* ============================================================
+   TABLE STYLING
+================================================================ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+td, th {
+  padding: 12px 16px;
+  border: 1px solid hsl(var(--border));
+}
+
+/* ============================================================
+   HEADING STYLES
+================================================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+}
+
+h1 {
+  background: linear-gradient(135deg, #00DBDE, #FC00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================================
+   BLOCKQUOTE STYLING
+================================================================ */
+
+blockquote {
+  border-left: 4px solid #00DBDE;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  color: hsl(var(--muted-foreground));
+  font-style: italic;
+}
+
+/* ============================================================
+   RESPONSIVE IMAGES
+================================================================ */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ============================================================
+   DARK MODE SUPPORT
+================================================================ */
+
+@media (prefers-color-scheme: dark) {
   :root {
     --background: 222 47% 7%;
     --foreground: 210 40% 96%;
@@ -25,142 +274,53 @@
     --border: 217 33% 17%;
     --input: 217 33% 20%;
     --ring: 199 89% 48%;
-    --chart-1: 199 89% 48%;
-    --chart-2: 142 71% 45%;
-    --chart-3: 280 70% 60%;
-    --chart-4: 38 92% 50%;
-    --chart-5: 0 72% 51%;
-    --radius: 0.625rem;
-    --font-heading: 'Inter', system-ui, sans-serif;
-    --font-body: 'Inter', system-ui, sans-serif;
-    --font-display: 'Inter', system-ui, sans-serif;
-    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
-    --sidebar-background: 222 47% 6%;
-    --sidebar-foreground: 210 40% 90%;
-    --sidebar-primary: 199 89% 48%;
-    --sidebar-primary-foreground: 210 40% 98%;
-    --sidebar-accent: 217 33% 14%;
-    --sidebar-accent-foreground: 210 40% 96%;
-    --sidebar-border: 217 33% 15%;
-    --sidebar-ring: 199 89% 48%;
-    --success: 142 71% 45%;
-    --warning: 38 92% 50%;
-    --info: 199 89% 48%;
-  }
-
-  .dark {
-    --background: 222 47% 7%;
-    --foreground: 210 40% 96%;
-    --card: 222 44% 10%;
-    --card-foreground: 210 40% 96%;
-    --popover: 222 47% 9%;
-    --popover-foreground: 210 40% 96%;
-    --primary: 199 89% 48%;
-    --primary-foreground: 210 40% 98%;
-    --secondary: 217 33% 17%;
-    --secondary-foreground: 210 40% 96%;
-    --muted: 217 33% 14%;
-    --muted-foreground: 215 20% 65%;
-    --accent: 280 70% 60%;
-    --accent-foreground: 210 40% 98%;
-    --destructive: 0 72% 51%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 217 33% 17%;
-    --input: 217 33% 20%;
-    --ring: 199 89% 48%;
-    --sidebar-background: 222 47% 6%;
-    --sidebar-foreground: 210 40% 90%;
-    --sidebar-primary: 199 89% 48%;
-    --sidebar-primary-foreground: 210 40% 98%;
-    --sidebar-accent: 217 33% 14%;
-    --sidebar-accent-foreground: 210 40% 96%;
-    --sidebar-border: 217 33% 15%;
-    --sidebar-ring: 199 89% 48%;
-  }
-}
-
-@layer base {
-  * {
-    @apply border-border outline-ring/50;
-  }
-
-  body {
-    @apply bg-background text-foreground font-body antialiased;
-  }
-}
-
-@layer components {
-  .glow-primary {
-    box-shadow: 0 0 20px -4px hsl(199 89% 48% / 0.5);
-  }
-  .glow-accent {
-    box-shadow: 0 0 20px -4px hsl(280 70% 60% / 0.5);
-  }
-  .scrollbar-thin {
-    scrollbar-width: thin;
-    scrollbar-color: hsl(217 33% 22%) transparent;
-  }
-  .scrollbar-thin::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-  }
-  .scrollbar-thin::-webkit-scrollbar-track {
-    background: transparent;
-  }
-  .scrollbar-thin::-webkit-scrollbar-thumb {
-    background-color: hsl(217 33% 22%);
-    border-radius: 3px;
-  }
-  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
-    background-color: hsl(217 33% 30%);
-  }
-  .grid-pattern {
-    background-image: radial-gradient(circle at 1px 1px, hsl(217 33% 18%) 1px, transparent 0);
-    background-size: 24px 24px;
   }
 }
 
 /* ============================================================
-     GLOW EFFECTS FOR IMAGES
-     ============================================================ */
-.glow-on-hover {
-  transition: all 0.3s ease-in-out;
-}
+   RESPONSIVE DESIGN - MOBILE FIRST
+================================================================ */
 
-.glow-on-hover:hover {
-  transform: scale(1.08);
-  filter: drop-shadow(0 0 20px rgba(0, 219, 222, 0.6));
-}
-
-.glow-pink:hover {
-  filter: drop-shadow(0 0 20px rgba(252, 0, 255, 0.6));
-}
-
-.glow-blue:hover {
-  filter: drop-shadow(0 0 20px rgba(0, 150, 255, 0.6));
-}
-
-.glow-gold:hover {
-  filter: drop-shadow(0 0 20px rgba(255, 215, 0, 0.6));
-}
-
-/* ============================================================
-     ANIMATED BACKGROUND
-     ============================================================ */
-.animated-bg {
-  background: linear-gradient(-45deg, #0a0a1a, #1a0a2e, #0a1a2e, #1a0a0a);
-  background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
+@media (max-width: 768px) {
+  table {
+    font-size: 14px;
   }
-  50% {
-    background-position: 100% 50%;
+  
+  td, th {
+    padding: 8px 10px;
   }
-  100% {
-    background-position: 0% 50%;
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
+  .glow-on-hover:hover {
+    transform: scale(1.04);
+  }
+}
+
+@media (max-width: 480px) {
+  table {
+    font-size: 12px;
+  }
+  
+  td, th {
+    padding: 6px 8px;
+  }
+  
+  h1 {
+    font-size: 20px;
+  }
+  
+  h2 {
+    font-size: 16px;
+  }
+  
+  img {
+    max-width: 100%;
   }
 }
