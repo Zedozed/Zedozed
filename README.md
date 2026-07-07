@@ -731,118 +731,256 @@ Real-World Impact
 
 
 
----
+<!-- ===============================================================
+                 AI ENGINEER IDENTITY CARD
+================================================================ -->
 
-# 🧠 AI Engineer Identity
+
+<h2 align="center">
+
+🤖 AI ENGINEER IDENTITY
+
+</h2>
 
 
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/AI%20Engineer-Python%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<table>
+
+<tr>
+
+
+<td width="50%" align="center">
+
+
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Specialization-Machine%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-purple?style=for-the-badge">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Research-LLM%20Applications-orange?style=for-the-badge">
+
+
+</td>
+
+
+
+<td width="50%" align="center">
+
+
+<img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React-black?style=for-the-badge&logo=next.js">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20FastAPI-green?style=for-the-badge&logo=node.js">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Prisma-blue?style=for-the-badge&logo=postgresql">
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+
+<br>
+
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,tensorflow,pytorch,nextjs,react,nodejs,postgres,docker,kubernetes,aws"/>
+
+
+<br><br>
+
+
+
+<table>
+
+
+<tr>
+
+
+<td align="center">
+
+
+<h3>🧠 Artificial Intelligence</h3>
+
+
+```
+Machine Learning
+Deep Learning
+Natural Language Processing
+Computer Vision
+Generative AI
+Large Language Models
+AI Agents
+```
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>⚙️ Software Engineering</h3>
+
+
+```
+System Architecture
+REST APIs
+Microservices
+Cloud Applications
+Database Design
+DevOps
+```
+
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 
 </div>
 
 
-```python
-class ZedingilZelalem:
 
-    """
-    AI Engineer & Full Stack Developer
-
-    Building intelligent systems using:
-    - Artificial Intelligence
-    - Machine Learning
-    - Data Science
-    - Modern Web Technologies
-    """
-
-    def __init__(self):
-
-        self.name = "Zedingil Zelalem"
-
-        self.title = [
-            "AI Engineer",
-            "Data Scientist",
-            "Full Stack Developer",
-            "Software Engineer"
-        ]
-
-        self.location = "Ethiopia 🇪🇹"
-
-        self.primary_languages = [
-            "Python",
-            "TypeScript",
-            "JavaScript"
-        ]
-
-        self.ai_stack = [
-            "Machine Learning",
-            "Deep Learning",
-            "TensorFlow",
-            "PyTorch",
-            "LLMs",
-            "Computer Vision",
-            "NLP"
-        ]
-
-        self.software_stack = [
-            "Next.js",
-            "React",
-            "Node.js",
-            "FastAPI",
-            "PostgreSQL",
-            "Docker"
-        ]
+<br>
 
 
-        self.current_focus = [
-
-            "Generative AI",
-
-            "LLM Applications",
-
-            "MLOps",
-
-            "Cloud Architecture",
-
-            "Scalable Systems"
-
-        ]
+<!-- ===============================================================
+                 AI DEVELOPMENT STACK
+================================================================ -->
 
 
-    def mission(self):
+<h2 align="center">
 
-        return """
+🔥 AI DEVELOPMENT STACK
 
-        Build intelligent software systems
-        that create meaningful impact.
-
-        """
-
-
-    def vision(self):
-
-        return """
-
-        Become a technology leader
-        building AI solutions
-        for Africa and the world.
-
-        """
+</h2>
 
 
 
-developer = ZedingilZelalem()
-
-print(developer.mission())
-
-print(developer.vision())
-
-```
+<p align="center">
 
 
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/OpenAI-LLM%20Applications-black?style=for-the-badge&logo=openai"/>
+
+
+<img src="https://img.shields.io/badge/LangChain-AI%20Agents-blue?style=for-the-badge"/>
+
+
+</p>
+
+
+
+<br>
+
+
+<div align="center">
+
+
+<table>
+
+
+<tr>
+
+
+<td>
+
+
+### 🤖 Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Model Evaluation
+- Predictive Analytics
+
+
+</td>
+
+
+<td>
+
+
+### 🧠 Deep Learning
+
+- Neural Networks
+- CNN
+- RNN
+- Transformers
+- Computer Vision
+
+
+</td>
+
+
+<td>
+
+
+### 💬 Generative AI
+
+- LLM Applications
+- Prompt Engineering
+- AI Agents
+- RAG Systems
+- Fine Tuning
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
 
 <br>
 
