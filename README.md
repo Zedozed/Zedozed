@@ -351,80 +351,244 @@ width="100%"
 
 ⭐ Open Source Contribution
 
-
 </div>
 
-
-
 <br>
-
 <!-- ===============================================================
                     SECTION 8: QUICK FACTS
 ================================================================ -->
-
 
 <h2 align="center">
 ⚡ QUICK FACTS
 </h2>
 
 
-<table align="center">
+<div align="center">
+
+
+<table>
 
 <tr>
-<td align="center">👨‍💻 Role</td>
-<td>AI Engineer | Data Scientist | Full Stack Developer | Software Engineer</td>
-</tr>
+
+<td width="50%" align="center">
+
+<h3>👨‍💻 Professional Identity</h3>
+
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Scientist-Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Software-Engineer-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
 
-<tr>
-<td align="center">🌍 Location</td>
-<td>Ethiopia 🇪🇹 | Africa</td>
-</tr>
+</td>
 
 
-<tr>
-<td align="center">🤖 AI Focus</td>
-<td>Machine Learning | Deep Learning | Generative AI | LLM Engineering</td>
-</tr>
+<td width="50%" align="center">
 
 
-<tr>
-<td align="center">📊 Data Science</td>
-<td>Python | Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch</td>
-</tr>
+<h3>🌍 Location & Vision</h3>
 
 
-<tr>
-<td align="center">🌐 Frontend</td>
-<td>Next.js | React | TypeScript | Tailwind CSS</td>
-</tr>
+<img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-009639?style=for-the-badge"/>
 
 
-<tr>
-<td align="center">⚙️ Backend</td>
-<td>Node.js | Express | FastAPI | PHP | CodeIgniter</td>
-</tr>
+<br><br>
 
 
-<tr>
-<td align="center">🗄 Database</td>
-<td>PostgreSQL | MySQL | MongoDB | Prisma</td>
-</tr>
+<img src="https://img.shields.io/badge/Building-For%20Africa-FFB000?style=for-the-badge"/>
 
 
-<tr>
-<td align="center">🚀 Current Project</td>
-<td>EthioAgriLink - AI Agricultural Platform</td>
-</tr>
+<br><br>
 
 
-<tr>
-<td align="center">🎯 Mission</td>
-<td>Build intelligent systems that create global impact</td>
+<img src="https://img.shields.io/badge/Open%20To-Global%20Opportunities-4285F4?style=for-the-badge"/>
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Mission-AI%20For%20Impact-FC00FF?style=for-the-badge"/>
+
+
+</td>
+
+
 </tr>
 
 
 </table>
+
+
+<br>
+
+
+<table>
+
+
+<tr>
+
+<td align="center">
+
+
+<h3>🤖 Artificial Intelligence</h3>
+
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+
+<br>
+
+
+<img src="https://img.shields.io/badge/Focus-Deep%20Learning-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Focus-LLM%20Engineering-purple?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=flat-square"/>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>📊 Data Science</h3>
+
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+
+<br>
+
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas"/>
+
+
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy"/>
+
+
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn"/>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>🌐 Full Stack</h3>
+
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs"/>
+
+
+<br>
+
+
+<img src="https://img.shields.io/badge/Frontend-Modern%20Web-61DAFB?style=flat-square"/>
+
+
+<img src="https://img.shields.io/badge/Backend-Scalable%20APIs-green?style=flat-square"/>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<br>
+
+
+<table>
+
+
+<tr>
+
+
+<td align="center">
+
+
+<h3>🗄 Database Engineering</h3>
+
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+
+<br>
+
+
+<img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma"/>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>🚀 Current Project</h3>
+
+
+<img src="https://img.shields.io/badge/EthioAgriLink-AI%20Agriculture-00C853?style=for-the-badge&logo=leaf&logoColor=white"/>
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+
+
+<br>
+
+
+<img src="https://img.shields.io/badge/Category-AI%20%2B%20Agriculture-green?style=flat-square"/>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<h3>🎯 Engineering Values</h3>
+
+
+<img src="https://img.shields.io/badge/Clean-Code-blue?style=flat-square"/>
+
+
+<img src="https://img.shields.io/badge/Scalable-Architecture-purple?style=flat-square"/>
+
+
+<img src="https://img.shields.io/badge/User-Centered-orange?style=flat-square"/>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
 
 
 <br>
