@@ -192,7 +192,7 @@ I enjoy transforming complex problems into elegant technology solutions.
 
 <img 
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-width="100%"
+width="100%" height="10%"
 />
 
 </p>
@@ -224,105 +224,29 @@ width="100%"
 | ☁️ Cloud | AWS, Google Cloud, Vercel |
 | 🐳 DevOps | Docker, Kubernetes, CI/CD |
 | 🏗️ Architecture | Scalable Software Systems |
-
-
 </div>
-
-
-
 <br>
 
-
-
-<!-- ===============================================================
-                    SECTION 7: DEVELOPER PHILOSOPHY
-================================================================ -->
-
-
-<h2 align="center">
-
-💡 DEVELOPMENT PHILOSOPHY
-
-</h2>
-
-
-<p align="center">
-
-
-"Great software is not only about writing code."
-
-<br>
-
-"It is about understanding problems, designing intelligent solutions, and creating technology that improves people's lives."
-
-
-</p>
-
-
-
-<br>
-
-
-
-<div align="center">
-
-
-⭐ Clean Code
-
-⭐ Scalable Architecture
-
-⭐ AI Driven Innovation
-
-⭐ User Centered Design
-
-⭐ Continuous Learning
-
-⭐ Open Source Contribution
-
-</div>
-
-<br>
 <!-- ===============================================================
                     SECTION 8: QUICK FACTS
 ================================================================ -->
-
 <h2 align="center">
 ⚡ QUICK FACTS
 </h2>
-
-
 <div align="center">
-
-
 <table>
-
 <tr>
-
 <td width="50%" align="center">
-
 <h3>👨‍💻 Professional Identity</h3>
-
 <img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Data%20Scientist-Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Software-Engineer-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-
 </td>
-
-
 <td width="50%" align="center">
-
-
 <h3>🌍 Location & Vision</h3>
 
 
@@ -458,83 +382,28 @@ width="100%"
 
 
 <br>
-
-
 <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma"/>
-
-
 </td>
 
-
-
 <td align="center">
-
-
-<h3>🚀 Current Project</h3>
-
-
-<img src="https://img.shields.io/badge/EthioAgriLink-AI%20Agriculture-00C853?style=for-the-badge&logo=leaf&logoColor=white"/>
-
-
-<br><br>
-
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
-
-
-<br>
-
-
-<img src="https://img.shields.io/badge/Category-AI%20%2B%20Agriculture-green?style=flat-square"/>
-
-
-</td>
-
-
-
-<td align="center">
-
-
 <h3>🎯 Engineering Values</h3>
-
-
 <img src="https://img.shields.io/badge/Clean-Code-blue?style=flat-square"/>
-
-
 <img src="https://img.shields.io/badge/Scalable-Architecture-purple?style=flat-square"/>
-
-
 <img src="https://img.shields.io/badge/User-Centered-orange?style=flat-square"/>
-
-
 </td>
-
-
 </tr>
-
-
 </table>
-
-
 </div>
-
-
 <br>
-
-
-<!-- END OF PART 1 -->
 
 <!-- ===============================================================
-                 SECTION 9: PROFESSIONAL SUMMARY
+                 SECTION 2: PROFESSIONAL SUMMARY
 ================================================================ -->
 
 
 <h2 align="center">
-
 🎯 PROFESSIONAL SUMMARY
-
 </h2>
-
 
 <div align="center">
 
@@ -546,218 +415,128 @@ width="100%"
 
 
 </div>
-
-
-
 I am **Zedingil Zelalem**, an AI Engineer and Full Stack Software Developer passionate about building intelligent systems that solve real-world problems.
-
 My expertise combines:
-
 <br>
-
-
 <table align="center">
-
 <tr>
-
 <td align="center">
-
 🤖
-
 <br>
-
 <b>Artificial Intelligence</b>
-
 <br>
-
 Machine Learning
-
 <br>
-
 Deep Learning
-
 <br>
-
 Generative AI
-
 <br>
-
 LLM Engineering
-
 </td>
-
-
 <td align="center">
-
 📊
-
 <br>
-
 <b>Data Science</b>
-
 <br>
-
 Data Analysis
-
 <br>
-
 Predictive Modeling
-
 <br>
-
 Visualization
-
 <br>
-
 Data Engineering
 
 </td>
 
-
 <td align="center">
-
 🌐
-
 <br>
-
 <b>Software Engineering</b>
-
 <br>
-
 Full Stack Systems
-
 <br>
-
-Cloud Applications
-
-<br>
-
 Scalable Architecture
-
 </td>
-
-
 </tr>
-
 </table>
-
-
 <br>
-
-
+<p align="center">
 My goal is to design and develop technology solutions that combine:
-
-```
-Artificial Intelligence
-        +
-Modern Software Engineering
-        +
-Human-Centered Design
-        =
-Real-World Impact
-```
-
+</p>
+<br>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="28%">
+<h3>🤖</h3>
+<b>Artificial Intelligence</b>
+</td>
+<td align="center" width="8%">
+<h1>+</h1>
+</td>
+<td align="center" width="28%">
+<h3>⚙️</h3>
+<b>Modern Software Engineering</b>
+</td>
+<td align="center" width="8%">
+<h1>+</h1>
+</td>
+<td align="center" width="28%">
+<h3>🎨</h3>
+<b>Human-Centered Design</b>
+</td>
+</tr>
+<tr>
+<td colspan="5" align="center">
+<h1>⬇️</h1>
+</td>
+</tr>
+<tr>
+<td colspan="5" align="center">
+<h2>
+🌍 Real-World Impact
+</h2>
+</td>
+</tr>
+</table>
+</div>
 
 
 <!-- ===============================================================
                  AI ENGINEER IDENTITY CARD
 ================================================================ -->
-
-
 <h2 align="center">
-
 🤖 AI ENGINEER IDENTITY
-
 </h2>
-
-
 <div align="center">
-
-
 <table>
-
 <tr>
-
-
 <td width="50%" align="center">
-
-
 <img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white">
-
-
 <br><br>
-
-
 <img src="https://img.shields.io/badge/Specialization-Machine%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-
 <br><br>
-
-
 <img src="https://img.shields.io/badge/Focus-Generative%20AI-purple?style=for-the-badge">
-
-
 <br><br>
-
-
 <img src="https://img.shields.io/badge/Research-LLM%20Applications-orange?style=for-the-badge">
-
-
 </td>
-
-
-
 <td width="50%" align="center">
-
-
 <img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-
 <br><br>
-
-
 <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React-black?style=for-the-badge&logo=next.js">
-
-
 <br><br>
-
-
 <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20FastAPI-green?style=for-the-badge&logo=node.js">
-
-
 <br><br>
-
-
 <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Prisma-blue?style=for-the-badge&logo=postgresql">
-
-
 </td>
-
-
-</tr>
-
-
-</table>
-
-
-
+</tr></table>
 <br>
-
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,tensorflow,pytorch,nextjs,react,nodejs,postgres,docker,kubernetes,aws"/>
-
-
+<img src="https://skillicons.dev/iconsi=python,typescript,javascript,tensorflow,pytorch,nextjs,react,nodejs,postgres,docker,kubernetes,aws"/>
 <br><br>
-
-
 <div align="center">
-
 <table>
-
 <tr>
-
 <td width="33%" align="center">
-
 <h3>🤖 Artificial Intelligence</h3>
 
 <p>
@@ -774,17 +553,12 @@ Real-World Impact
 🧩 AI Agents
 </p>
 
-
 <td width="33%" align="center">
-
 <h3>⚙️ Software Engineering</h3>
-
 <p>
 🏗 System Architecture
 <br>
 🔌 REST APIs
-<br>
-🧩 Microservices
 <br>
 ☁️ Cloud Applications
 <br>
@@ -792,14 +566,10 @@ Real-World Impact
 <br>
 🐳 DevOps
 </p>
-
 </td>
 
-
 <td width="33%" align="center">
-
 <h3>📊 Data Science</h3>
-
 <p>
 🐍 Python Analytics
 <br>
@@ -813,317 +583,131 @@ Real-World Impact
 <br>
 🚀 ML Pipelines
 </p>
-
 </td>
-
-
 </tr>
-
 </table>
-
 </div>
 </div>
-
-
-
 <br>
-
-
 <!-- ===============================================================
                  AI DEVELOPMENT STACK
 ================================================================ -->
-
-
 <h2 align="center">
-
 🔥 AI DEVELOPMENT STACK
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/OpenAI-LLM%20Applications-black?style=for-the-badge&logo=openai"/>
-
-
 <img src="https://img.shields.io/badge/LangChain-AI%20Agents-blue?style=for-the-badge"/>
-
-
 </p>
-
-
-
 <br>
-
-
 <div align="center">
-
-
 <table>
-
-
 <tr>
-
-
 <td>
-
-
 ### 🤖 Machine Learning
-
 - Supervised Learning
 - Unsupervised Learning
 - Feature Engineering
 - Model Evaluation
 - Predictive Analytics
-
-
 </td>
-
-
 <td>
-
-
 ### 🧠 Deep Learning
-
 - Neural Networks
 - CNN
 - RNN
 - Transformers
 - Computer Vision
-
-
 </td>
-
-
 <td>
-
-
 ### 💬 Generative AI
-
 - LLM Applications
 - Prompt Engineering
 - AI Agents
 - RAG Systems
 - Fine Tuning
-
-
 </td>
-
-
 </tr>
-
-
 </table>
-
-
 </div>
-
 <br>
-
 
 <!-- ===============================================================
                  SECTION 10: MISSION & VISION
 ================================================================ -->
 
-
 <h2 align="center">
-
 🌍 MISSION & VISION
-
 </h2>
-
-
-
 <table align="center">
-
-
 <tr>
-
-
 <td width="50%" align="center">
-
-
 <h3>
-
 🚀 My Mission
-
 </h3>
-
-
 <img src="https://img.shields.io/badge/Mission-AI%20Driven%20Innovation-00C853?style=for-the-badge"/>
-
-
 <br><br>
-
-
 To transform complex challenges into intelligent software solutions through:
-
 <br><br>
-
-
 ✅ Artificial Intelligence
-
 <br>
-
 ✅ Data-driven decisions
-
 <br>
-
 ✅ Modern engineering practices
-
 <br>
-
 ✅ Scalable software architecture
-
-
 </td>
-
-
-
 <td width="50%" align="center">
-
-
 <h3>
-
 🌟 My Vision
-
 </h3>
-
-
 <img src="https://img.shields.io/badge/Vision-Future%20Technology-FC00FF?style=for-the-badge"/>
-
-
 <br><br>
-
-
 To contribute to a future where technology empowers communities, businesses, and industries through intelligent systems.
-
-
 </td>
-
-
 </tr>
-
-
 </table>
-
-
-
 <br>
-
-
-
 <!-- ===============================================================
                  SECTION 11: ENGINEERING PRINCIPLES
 ================================================================ -->
-
-
 <h2 align="center">
-
 ⚙️ ENGINEERING PRINCIPLES
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img src="https://img.shields.io/badge/Clean%20Code-Professional%20Standards-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Scalable%20Systems-Architecture-success?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/AI%20First-Innovation-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/User%20Focused-Design-orange?style=for-the-badge"/>
-
-
 </p>
-
-
-
 <table align="center">
-
-
 <tr>
-
-
 <td align="center">
-
-
 <h3>🧩 Problem Solving</h3>
-
-
 I believe software engineering starts with understanding the problem before writing code.
-
-
 </td>
-
-
-
 <td align="center">
-
-
 <h3>🏗 Architecture</h3>
-
-
 I design systems that are maintainable, scalable, and production-ready.
-
-
 </td>
-
-
-
 <td align="center">
-
-
 <h3>🤖 AI Innovation</h3>
-
-
 I use AI to automate processes and create intelligent experiences.
-
-
 </td>
-
-
 </tr>
-
-
 </table>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
                  SECTION 12: CAREER PROFILE
 ================================================================ -->
-
-
 <h2 align="center">
-
 💼 CAREER PROFILE
-
 </h2>
-
-
-
 <div align="center">
-
-
 | Category | Description |
 |---|---|
 | 👨‍💻 Professional Role | AI Engineer & Full Stack Developer |
@@ -1134,201 +718,90 @@ I use AI to automate processes and create intelligent experiences.
 | 📊 Data Expertise | Analytics, ML Models, Visualization |
 | ☁️ Deployment | Docker, Cloud Platforms, CI/CD |
 | 🎯 Goal | Building impactful intelligent systems |
-
-
 </div>
-
-
-
 <br>
-
 <!-- ===============================================================
               SECTION 13: TECHNOLOGY ARSENAL
 ================================================================ -->
-
-
 <h1 align="center">
-
 🛠️ TECHNOLOGY ARSENAL
-
 </h1>
-
-
 <p align="center">
-
 Building intelligent systems with modern Artificial Intelligence,
 Data Science, and Software Engineering technologies.
-
 </p>
-
-
 <br>
-
-
 
 <!-- ===============================================================
               ARTIFICIAL INTELLIGENCE
 ================================================================ -->
-
-
 <h2 align="center">
-
 🤖 ARTIFICIAL INTELLIGENCE
-
 </h2>
-
-
 <p align="center">
-
-
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-Expert-00DBDE?style=for-the-badge&logo=openai&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Apps-8A2BE2?style=for-the-badge"/>
-
-
 </p>
-
-
-
 <div align="center">
-
-
 <table>
-
-
 <tr>
-
-
 <td width="33%" align="center">
-
-
 <h3>🧠 Machine Learning</h3>
-
-
 <p>
-
 📌 Supervised Learning
-
 <br>
-
 📌 Unsupervised Learning
-
 <br>
-
 📌 Regression Models
-
 <br>
-
 📌 Classification
-
 <br>
-
 📌 Clustering
-
 <br>
-
 📌 Feature Engineering
-
 <br>
-
 📌 Model Evaluation
-
 <br>
-
 📌 Predictive Analytics
-
 </p>
-
-
 </td>
-
-
-
 <td width="33%" align="center">
-
-
 <h3>🔥 Deep Learning</h3>
-
-
 <p>
-
 🧬 Neural Networks
-
 <br>
-
 👁 Computer Vision
-
 <br>
-
 🧠 CNN Architectures
-
 <br>
-
 🔄 RNN Networks
-
 <br>
-
 ⚡ Transformers
-
 <br>
-
 🎯 Model Optimization
-
 <br>
-
 🚀 GPU Computing
-
 </p>
-
-
 </td>
-
-
-
 <td width="33%" align="center">
-
-
 <h3>💬 Generative AI</h3>
-
-
 <p>
-
 ✨ Large Language Models
-
 <br>
-
 🤖 AI Agents
-
 <br>
-
 🔎 RAG Systems
-
 <br>
-
 📝 Prompt Engineering
-
 <br>
-
 🔧 Fine Tuning
-
 <br>
-
 🧩 LLM Applications
-
 <br>
-
 🌐 AI Automation
-
 </p>
-
-
 </td>
 
 
@@ -2631,873 +2104,278 @@ Migration System
 Next.js Integration
 
 <br>
-
 PostgreSQL Workflow
-
 </p>
-
-
 </td>
-
-
-
 <td align="center">
-
-
 <h3>🏗 Database Design</h3>
-
-
 <p>
-
 ER Modeling
-
 <br>
-
 Normalization
-
 <br>
-
 Relationships
-
 <br>
-
 Query Optimization
-
 <br>
-
 Security
-
 </p>
-
-
 </td>
-
-
 </tr>
-
-
 </table>
-
-
 </div>
-
-
-
 <br>
-
-
-
-
-<!-- ===============================================================
-              SECTION 16: CLOUD ENGINEERING
-================================================================ -->
-
-
-<h1 align="center">
-
-☁️ CLOUD ENGINEERING
-
-</h1>
-
-
-<p align="center">
-
-Building scalable cloud-native applications.
-
-</p>
-
-
-
-<br>
-
-
-
-<p align="center">
-
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify"/>
-
-
-</p>
-
-
-
-<p align="center">
-
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Solutions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Vercel-Frontend%20Deployment-black?style=for-the-badge&logo=vercel"/>
-
-
-</p>
-
-
-
-<div align="center">
-
-
-<table>
-
-
-<tr>
-
-
-<td width="33%" align="center">
-
-
-<h3>☁️ Cloud Platforms</h3>
-
-
-<p>
-
-AWS Services
-
-<br>
-
-Google Cloud
-
-<br>
-
-Cloud Deployment
-
-<br>
-
-Storage Solutions
-
-<br>
-
-Compute Services
-
-<br>
-
-Cloud Security
-
-</p>
-
-
-</td>
-
-
-
-<td width="33%" align="center">
-
-
-<h3>🌐 Application Hosting</h3>
-
-
-<p>
-
-Vercel
-
-<br>
-
-Netlify
-
-<br>
-
-Linux Servers
-
-<br>
-
-Production Hosting
-
-<br>
-
-Domain Configuration
-
-</p>
-
-
-</td>
-
-
-
-<td width="33%" align="center">
-
-
-<h3>🔐 Cloud Practices</h3>
-
-
-<p>
-
-Scalability
-
-<br>
-
-Monitoring
-
-<br>
-
-Security
-
-<br>
-
-Backup Strategy
-
-<br>
-
-Cost Optimization
-
-</p>
-
-
-</td>
-
-
-</tr>
-
-
-</table>
-
-
-</div>
-
-
-
-<br>
-
-
-
 
 <!-- ===============================================================
               SECTION 17: DEVOPS ENGINEERING
 ================================================================ -->
-
-
 <h1 align="center">
-
 🐳 DEVOPS & INFRASTRUCTURE
-
 </h1>
-
-
-
 <p align="center">
-
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions"/>
-
-
 </p>
-
-
-
 <p align="center">
-
-
 <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Linux-Server%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-
 </p>
-
-
-
 <br>
-
-
-
 <div align="center">
-
-
 <table>
-
-
 <tr>
-
-
 <td align="center">
-
-
 <h3>🐳 Docker</h3>
-
-
 <p>
-
 Container Images
-
 <br>
-
 Docker Compose
-
 <br>
-
 Application Packaging
-
 <br>
-
 Environment Management
-
 <br>
-
 Deployment Automation
-
 </p>
-
-
 </td>
-
-
-
 <td align="center">
-
-
-<h3>☸️ Kubernetes</h3>
-
-
-<p>
-
-Container Orchestration
-
-<br>
-
-Scaling Applications
-
-<br>
-
-Service Management
-
-<br>
-
-Production Deployment
-
-<br>
-
-Cloud Native Systems
-
-</p>
-
-
-</td>
-
-
-
-<td align="center">
-
-
 <h3>⚙️ CI/CD</h3>
-
-
 <p>
-
 GitHub Actions
-
 <br>
-
 Automated Testing
-
 <br>
-
 Continuous Deployment
-
 <br>
-
 Build Pipelines
-
 <br>
-
 Release Management
-
 </p>
-
-
 </td>
-
-
 </tr>
-
-
 </table>
-
-
 </div>
-
-
-
 <br>
-
-
-
 
 <!-- ===============================================================
               DEVELOPMENT WORKFLOW
 ================================================================ -->
-
-
 <h2 align="center">
-
 🔄 DEVELOPMENT WORKFLOW
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img src="https://img.shields.io/badge/1-Plan%20%26%20Design-blue?style=for-the-badge"/>
-
-
 <img src="https://img.shields.io/badge/2-Develop-green?style=for-the-badge"/>
-
-
 <img src="https://img.shields.io/badge/3-Test-orange?style=for-the-badge"/>
-
-
 <img src="https://img.shields.io/badge/4-Deploy-purple?style=for-the-badge"/>
-
-
 <img src="https://img.shields.io/badge/5-Monitor-red?style=for-the-badge"/>
-
-
 </p>
-
-
-
 <br>
 
 <!-- ===============================================================
               SECTION 18: GITHUB ANALYTICS
 ================================================================ -->
-
-
 <h1 align="center">
-
 📊 GITHUB ANALYTICS
-
 </h1>
-
-
 <p align="center">
-
 My coding activity, achievements, contributions, and developer journey.
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               GITHUB STATS CARDS
 ================================================================ -->
-
-
 <h2 align="center">
-
 🔥 CODING STATISTICS
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img 
 src="https://github-readme-stats.vercel.app/api?username=Zedozed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
 width="48%"
 />
-
-
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Zedozed&theme=radical&hide_border=true&background=0D1117&stroke=00DBDE&ring=FC00FF&fire=00DBDE&currStreakNum=FFFFFF&sideNums=00DBDE&currStreakLabel=FC00FF&sideLabels=FFFFFF"
 width="48%"
 />
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               LANGUAGE STATISTICS
 ================================================================ -->
-
-
 <h2 align="center">
-
 💻 PROGRAMMING LANGUAGE STATISTICS
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
 width="45%"
 />
-
-
-
 <img
 src="https://github-readme-stats.vercel.app/api/wakatime?username=Zedozed&theme=radical&hide_border=true&bg_color=0D1117"
 width="45%"
 />
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               ACTIVITY GRAPH
 ================================================================ -->
-
-
 <h2 align="center">
-
 📈 CONTRIBUTION ACTIVITY
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Zedozed&bg_color=0D1117&color=FFFFFF&line=00DBDE&point=FC00FF&area=true&hide_border=true"
 width="95%"
 />
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               CONTRIBUTION SNAKE
 ================================================================ -->
-
-
 <h2 align="center">
-
-🐍 CONTRIBUTION SNAKE
-
+🐍 CONTRIBUTION SNAK
 </h2>
-
-
-
 <p align="center">
-
-
 <img
 src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg"
 alt="Contribution Snake"
 />
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               GITHUB TROPHIES
 ================================================================ -->
-
-
 <h2 align="center">
-
 🏆 GITHUB ACHIEVEMENTS
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img
 src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&no-frame=true&no-bg=true&row=2&column=4"
 width="90%"
 />
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               PROFILE METRICS
 ================================================================ -->
-
-
 <h2 align="center">
-
 ⚡ DEVELOPER METRICS
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img
 src="https://metrics.lecoq.io/Zedozed?template=classic&base.header=0&base.activity=1&base.repositories=1&base.metadata=1&achievements=1&languages=1&repositories=1"
 width="90%"
 />
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               GITHUB PROFILE SUMMARY
 ================================================================ -->
-
-
 <h2 align="center">
-
 🚀 DEVELOPER PROFILE SUMMARY
-
 </h2>
-
-
-
 <div align="center">
-
-
 <table>
-
-
 <tr>
-
-
 <td align="center" width="25%">
-
-
 <h3>⭐ Focus</h3>
-
-
 <p>
-
 Artificial Intelligence
-
 <br>
-
 Machine Learning
-
 <br>
-
 Full Stack Systems
-
 </p>
-
-
 </td>
-
-
-
 <td align="center" width="25%">
-
-
 <h3>🔥 Building</h3>
-
-
 <p>
-
 AI Applications
-
 <br>
-
 Cloud Systems
-
 <br>
-
 Digital Platforms
-
 </p>
-
-
 </td>
-
-
-
 <td align="center" width="25%">
-
-
 <h3>🌱 Learning</h3>
-
-
 <p>
-
 LLMs
-
 <br>
-
 MLOps
-
 <br>
-
 Kubernetes
-
 </p>
-
-
 </td>
-
-
-
 <td align="center" width="25%">
-
-
 <h3>🤝 Open For</h3>
-
-
 <p>
-
 Collaboration
-
 <br>
-
 Research
-
 <br>
-
 Open Source
-
 </p>
-
-
 </td>
-
-
-
 </tr>
-
-
 </table>
-
-
 </div>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               GITHUB ACHIEVEMENT BADGES
 ================================================================ -->
-
-
 <h2 align="center">
-
 🎖️ PROFESSIONAL BADGES
-
 </h2>
-
-
-
 <p align="center">
-
-
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
-
-
 <img src="https://img.shields.io/badge/AI%20Engineer-Innovation-blue?style=for-the-badge&logo=openai"/>
-
-
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react"/>
-
-
 <img src="https://img.shields.io/badge/Cloud-Native-orange?style=for-the-badge&logo=docker"/>
-
-
 </p>
-
-
-
 <br>
-
-
 
 <!-- ===============================================================
               CODING PHILOSOPHY
 ================================================================ -->
-
-
 <h2 align="center">
-
 💡 CODING PHILOSOPHY
-
 </h2>
-
-
-
 <p align="center">
-
-
 "Great software is not only written with code,
-
 but with creativity, architecture, and purpose."
-
-
 </p>
-
-
-
 <p align="center">
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00DBDE&center=true&width=800&lines=Building+AI+Systems+for+Real+World+Impact;Creating+Technology+for+Africa+and+Beyond;Learning+Every+Day+%F0%9F%9A%80"
 />
-
-
 </p>
-
-
-
 <br>
-
-
-
-<!-- ===============================================================
-              END OF PART 6
-================================================================ -->
