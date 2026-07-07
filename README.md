@@ -4,7 +4,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   "Transforming Ideas Into Intelligent Software Systems"
   
-  Profile Version: 4.0.0
+  Profile Version: 5.0.0
   Updated: 2026
   
   AI • Machine Learning • Data Science • Full Stack Engineering
@@ -34,45 +34,54 @@
 </p>
 
 <!-- ============================================================
-                    SECTION 3: PROFILE CARD
+                    SECTION 3: BUSINESS CARD
 ================================================================ -->
 
 <div align="center">
   <table>
     <tr>
-      <td width="35%" align="center">
+      <td width="30%" align="center" style="background: rgba(13,17,23,0.9); border-radius: 16px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
         <img 
           src="https://github.com/Zedozed.png"
-          width="220"
+          width="180"
+          style="border-radius: 50%; border: 3px solid #00DBDE;"
         />
         <br><br>
+        <h3 style="color: #00DBDE; margin: 5px 0;">Zedingil Zelalem</h3>
+        <p style="color: #c9d1d9; margin: 5px 0;">👨‍💻 AI Engineer</p>
+        <p style="color: #c9d1d9; margin: 5px 0;">🇪🇹 Ethiopia</p>
+        <p style="color: #c9d1d9; margin: 5px 0;">☁️ Open to Work</p>
+        <p style="color: #c9d1d9; margin: 5px 0;">📧 zelalemc6@gmail.com</p>
+        <p style="color: #c9d1d9; margin: 5px 0;">🌐 <a href="https://zedingil.vercel.app">zedingil.vercel.app</a></p>
+        <p style="color: #00DBDE; margin: 5px 0;">🔥 Available for Projects</p>
+        <br>
         <img src="https://komarev.com/ghpvc/?username=Zedozed&label=Profile%20Views&color=00dbde&style=for-the-badge" />
         <br>
         <img src="https://img.shields.io/github/followers/Zedozed?label=Followers&style=for-the-badge&color=fc00ff" />
         <br>
         <img src="https://img.shields.io/github/stars/Zedozed?label=Stars&style=for-the-badge&color=00dbde" />
       </td>
-      <td width="65%" align="left">
-        <h1>👨‍💻 Zedingil Zelalem</h1>
-        <h3>🚀 AI Engineer | Data Scientist | Full Stack Developer</h3>
-        <blockquote>
+      <td width="70%" align="left" style="padding: 20px;">
+        <h1 style="background: linear-gradient(135deg, #00DBDE, #FC00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">👨‍💻 Zedingil Zelalem</h1>
+        <h3 style="color: #00DBDE;">🚀 AI Engineer | Data Scientist | Full Stack Developer</h3>
+        <blockquote style="border-left: 4px solid #00DBDE; padding-left: 16px; margin: 16px 0; color: #8b949e; font-style: italic;">
           "I build intelligent software systems by combining Artificial Intelligence, Data Science, and Modern Software Engineering."
         </blockquote>
         <br>
-        <h3>🌍 About Me</h3>
-        <p>
-          I am a passionate <strong>AI Engineer and Full Stack Developer</strong> focused on creating intelligent, scalable, and impactful digital solutions.
+        <h3 style="color: #FC00FF;">🌍 About Me</h3>
+        <p style="color: #c9d1d9; line-height: 1.6;">
+          I am a passionate <strong style="color: #00DBDE;">AI Engineer and Full Stack Developer</strong> focused on creating intelligent, scalable, and impactful digital solutions.
         </p>
-        <p>My work combines:</p>
-        <ul>
-          <li>🤖 Artificial Intelligence</li>
-          <li>🧠 Machine Learning</li>
-          <li>📊 Data Science</li>
-          <li>🌐 Full Stack Engineering</li>
-          <li>☁️ Cloud Computing</li>
-          <li>⚙️ Software Architecture</li>
+        <p style="color: #c9d1d9;">My work combines:</p>
+        <ul style="color: #c9d1d9; list-style-type: none; padding: 0;">
+          <li style="padding: 4px 0;">🤖 Artificial Intelligence</li>
+          <li style="padding: 4px 0;">🧠 Machine Learning</li>
+          <li style="padding: 4px 0;">📊 Data Science</li>
+          <li style="padding: 4px 0;">🌐 Full Stack Engineering</li>
+          <li style="padding: 4px 0;">☁️ Cloud Computing</li>
+          <li style="padding: 4px 0;">⚙️ Software Architecture</li>
         </ul>
-        <p>I enjoy transforming complex problems into elegant technology solutions.</p>
+        <p style="color: #c9d1d9;">I enjoy transforming complex problems into elegant technology solutions.</p>
       </td>
     </tr>
   </table>
@@ -81,29 +90,51 @@
 <br>
 
 <!-- ============================================================
-                    SECTION 4: SOCIAL CONNECTIONS
+                    SECTION 4: SOCIAL LINKS (GROUPED)
 ================================================================ -->
 
-<p align="center">
-  <a href="https://zedingil.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:zelalemc6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/zedingil-zelalem3773" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Zedozed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/ZedingilZ" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://t.me/ET3773" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+<h2 align="center">🔗 CONNECT WITH ME</h2>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
+        <h3 style="color: #00DBDE;">💼 Professional</h3>
+        <br>
+        <a href="https://www.linkedin.com/in/zedingil-zelalem3773" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <br><br>
+        <a href="https://zedingil.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <br><br>
+        <a href="mailto:zelalemc6@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(252,0,255,0.2);">
+        <h3 style="color: #FC00FF;">🌐 Community</h3>
+        <br>
+        <a href="https://github.com/Zedozed" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <a href="https://x.com/ZedingilZ" target="_blank">
+          <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+        </a>
+        <br><br>
+        <a href="https://t.me/ET3773" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 <!-- ============================================================
                     SECTION 5: ANIMATED DIVIDER
@@ -166,33 +197,60 @@
 <br>
 
 <!-- ============================================================
-                    SECTION 7: QUICK FACTS
+                    SECTION 7: TECHNOLOGY CARDS
 ================================================================ -->
 
-<h2 align="center">⚡ QUICK FACTS</h2>
+<h2 align="center">🛠️ TECHNOLOGY ARSENAL</h2>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h3>👨‍💻 Professional Identity</h3>
-        <img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white" />
+      <td width="33%" align="center" style="background: rgba(13,17,23,0.9); border-radius: 16px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
+        <h3 style="color: #00DBDE;">🤖 Artificial Intelligence</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
         <br><br>
-        <img src="https://img.shields.io/badge/Data%20Scientist-Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Software-Engineer-000000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-AI%20Agents-blue?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/badge/OpenAI-LLM%20Apps-black?style=flat-square&logo=openai" />
+        <br>
+        <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn" />
+        <br>
+        <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas" />
+        <br>
+        <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy" />
       </td>
-      <td width="50%" align="center">
-        <h3>🌍 Location & Vision</h3>
-        <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-009639?style=for-the-badge" />
+      <td width="33%" align="center" style="background: rgba(13,17,23,0.9); border-radius: 16px; padding: 20px; border: 1px solid rgba(252,0,255,0.2);">
+        <h3 style="color: #FC00FF;">🌐 Full Stack</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs" />
         <br><br>
-        <img src="https://img.shields.io/badge/Building-For%20Africa-FFB000?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Next.js-Full%20Stack-black?style=flat-square&logo=next.js" />
+        <br>
+        <img src="https://img.shields.io/badge/React-UI%20Library-61DAFB?style=flat-square&logo=react" />
+        <br>
+        <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
+        <br>
+        <img src="https://img.shields.io/badge/Express-API%20Framework-404D59?style=flat-square&logo=express" />
+        <br>
+        <img src="https://img.shields.io/badge/Tailwind-CSS%20Framework-38B2AC?style=flat-square&logo=tailwindcss" />
+      </td>
+      <td width="34%" align="center" style="background: rgba(13,17,23,0.9); border-radius: 16px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
+        <h3 style="color: #00DBDE;">☁️ Cloud & DevOps</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
         <br><br>
-        <img src="https://img.shields.io/badge/Open%20To-Global%20Opportunities-4285F4?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Mission-AI%20For%20Impact-FC00FF?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker" />
+        <br>
+        <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes" />
+        <br>
+        <img src="https://img.shields.io/badge/AWS-Cloud%20Platform-232F3E?style=flat-square&logo=amazon-aws" />
+        <br>
+        <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel" />
+        <br>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions" />
       </td>
     </tr>
   </table>
@@ -201,56 +259,33 @@
 <br>
 
 <!-- ============================================================
-                    SECTION 8: TECHNOLOGY ARSENAL
+                    SECTION 8: QUICK FACTS
 ================================================================ -->
 
-<h2 align="center">🛠️ TECHNOLOGY ARSENAL</h2>
+<h2 align="center">⚡ QUICK FACTS</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <h3>🤖 Artificial Intelligence</h3>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-        <br>
-        <img src="https://img.shields.io/badge/Focus-Deep%20Learning-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-LLM%20Engineering-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=flat-square" />
+      <td width="50%" align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
+        <h3 style="color: #00DBDE;">👨‍💻 Professional Identity</h3>
+        <img src="https://img.shields.io/badge/Role-AI%20Engineer-00DBDE?style=for-the-badge&logo=openai&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Data%20Scientist-Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Software-Engineer-000000?style=for-the-badge&logo=github&logoColor=white" />
       </td>
-      <td align="center">
-        <h3>📊 Data Science</h3>
-        <img src="https://skillicons.dev/icons?i=python" />
-        <br>
-        <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas" />
-        <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn" />
-      </td>
-      <td align="center">
-        <h3>🌐 Full Stack</h3>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs" />
-        <br>
-        <img src="https://img.shields.io/badge/Frontend-Modern%20Web-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-green?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🗄️ Database Engineering</h3>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-        <br>
-        <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma" />
-      </td>
-      <td align="center">
-        <h3>🎯 Engineering Values</h3>
-        <img src="https://img.shields.io/badge/Clean-Code-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scalable-Architecture-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/User-Centered-orange?style=flat-square" />
-      </td>
-      <td align="center">
-        <h3>🐳 DevOps & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
-        <br>
-        <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square" />
+      <td width="50%" align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(252,0,255,0.2);">
+        <h3 style="color: #FC00FF;">🌍 Location & Vision</h3>
+        <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-009639?style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Building-For%20Africa-FFB000?style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Open%20To-Global%20Opportunities-4285F4?style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Mission-AI%20For%20Impact-FC00FF?style=for-the-badge" />
       </td>
     </tr>
   </table>
@@ -279,16 +314,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        🤖<br><b>Artificial Intelligence</b><br>
+      <td align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
+        🤖<br><b style="color: #00DBDE;">Artificial Intelligence</b><br>
         Machine Learning<br>Deep Learning<br>Generative AI<br>LLM Engineering
       </td>
-      <td align="center">
-        📊<br><b>Data Science</b><br>
+      <td align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(252,0,255,0.2);">
+        📊<br><b style="color: #FC00FF;">Data Science</b><br>
         Data Analysis<br>Predictive Modeling<br>Visualization<br>Data Engineering
       </td>
-      <td align="center">
-        🌐<br><b>Software Engineering</b><br>
+      <td align="center" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
+        🌐<br><b style="color: #00DBDE;">Software Engineering</b><br>
         Full Stack Systems<br>Scalable Architecture<br>Cloud Computing<br>DevOps
       </td>
     </tr>
@@ -308,33 +343,33 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="28%">
+      <td align="center" width="28%" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
         <h3>🤖</h3>
-        <b>Artificial Intelligence</b>
+        <b style="color: #00DBDE;">Artificial Intelligence</b>
       </td>
       <td align="center" width="8%">
-        <h1>+</h1>
+        <h1 style="color: #FC00FF;">+</h1>
       </td>
-      <td align="center" width="28%">
+      <td align="center" width="28%" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(252,0,255,0.2);">
         <h3>⚙️</h3>
-        <b>Software Engineering</b>
+        <b style="color: #FC00FF;">Software Engineering</b>
       </td>
       <td align="center" width="8%">
-        <h1>+</h1>
+        <h1 style="color: #00DBDE;">+</h1>
       </td>
-      <td align="center" width="28%">
+      <td align="center" width="28%" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.2);">
         <h3>🎨</h3>
-        <b>Human-Centered Design</b>
+        <b style="color: #00DBDE;">Human-Centered Design</b>
       </td>
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <h1>⬇️</h1>
+        <h1 style="color: #FC00FF;">⬇️</h1>
       </td>
     </tr>
     <tr>
-      <td colspan="5" align="center">
-        <h2>🌍 Real-World Impact</h2>
+      <td colspan="5" align="center" style="background: rgba(13,17,23,0.9); border-radius: 12px; padding: 20px; border: 1px solid rgba(0,219,222,0.3);">
+        <h2 style="color: #00DBDE;">🌍 Real-World Impact</h2>
       </td>
     </tr>
   </table>
@@ -348,7 +383,8 @@
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-<h3 align="center">🔥 Coding Statistics</h3>
+<!-- CODING STATISTICS -->
+<h3 align="center" style="color: #00DBDE;">🔥 Coding Statistics</h3>
 
 <p align="center">
   <img 
@@ -363,18 +399,20 @@
 
 <br>
 
-<h3 align="center">💻 Language Statistics</h3>
+<!-- LANGUAGE STATISTICS -->
+<h3 align="center" style="color: #FC00FF;">💻 Language Statistics</h3>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
-    width="45%"
+    width="55%"
   />
 </p>
 
 <br>
 
-<h3 align="center">📈 Contribution Activity</h3>
+<!-- CONTRIBUTION ACTIVITY -->
+<h3 align="center" style="color: #00DBDE;">📈 Coding Activity</h3>
 
 <p align="center">
   <img
@@ -385,7 +423,8 @@
 
 <br>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<!-- CONTRIBUTION SNAKE -->
+<h3 align="center" style="color: #FC00FF;">🐍 Contribution Snake</h3>
 
 <p align="center">
   <picture>
@@ -400,7 +439,8 @@
 
 <br>
 
-<h3 align="center">🏆 GitHub Achievements</h3>
+<!-- GITHUB ACHIEVEMENTS -->
+<h3 align="center" style="color: #00DBDE;">🏆 GitHub Achievements</h3>
 
 <p align="center">
   <img
@@ -430,24 +470,58 @@
 <br>
 
 <!-- ============================================================
-                    SECTION 13: FOOTER
+                    SECTION 13: MEMORABLE FOOTER
 ================================================================ -->
 
 <p align="center">
-  <strong>💬 "Let's connect and build the future of intelligent software together!"</strong>
-</p>
-
-<p align="center">
-  <i>📍 Based in Ethiopia 🌍 | Open to Global Opportunities 🌐</i>
-  <br />
-  <i>💻 Code with Purpose | 🤖 AI for Good | 🌱 Building for Africa</i>
-</p>
-
-<p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=150&section=footer&text=Made%20with%20❤️%20by%20Zedingil%20Zelalem&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=50" 
     width="100%"
   />
+</p>
+
+<br>
+
+<p align="center" style="font-size: 1.2em;">
+  <strong style="color: #00DBDE;">💬 Let's build intelligent software that changes lives.</strong>
+</p>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 15px; border: 1px solid rgba(0,219,222,0.2);">
+        <h3 style="color: #00DBDE;">🌍 Ethiopia</h3>
+        <p style="color: #8b949e;">Building for Africa</p>
+        <p style="color: #8b949e;">Global Impact</p>
+      </td>
+      <td align="center" width="33%" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 15px; border: 1px solid rgba(252,0,255,0.2);">
+        <h3 style="color: #FC00FF;">🤖 AI</h3>
+        <p style="color: #8b949e;">Intelligent Systems</p>
+        <p style="color: #8b949e;">Machine Learning</p>
+      </td>
+      <td align="center" width="34%" style="background: rgba(13,17,23,0.8); border-radius: 12px; padding: 15px; border: 1px solid rgba(0,219,222,0.2);">
+        <h3 style="color: #00DBDE;">💙 Open Source</h3>
+        <p style="color: #8b949e;">Contributing to</p>
+        <p style="color: #8b949e;">the Community</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<p align="center">
+  <i style="color: #8b949e;">📍 Based in Ethiopia 🌍 | Open to Global Opportunities 🌐</i>
+  <br />
+  <i style="color: #8b949e;">💻 Code with Purpose | 🤖 AI for Good | 🌱 Building for Africa</i>
+</p>
+
+<br>
+
+<p align="center" style="color: #00DBDE;">
+  <strong>Made with ❤️ by Zedingil Zelalem</strong>
 </p>
 
 <!-- 
