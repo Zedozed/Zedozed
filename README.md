@@ -322,7 +322,8 @@
 <h3 align="center">💻 Language Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
+  <img
+    src="https://github-readme-stats-one-xi-39.vercel.app/api/top-langs/?username=Zedozed&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=FFFFFF"
     width="55%"
   />
 </p>
@@ -333,7 +334,8 @@
 <h3 align="center">📈 Coding Activity</h3>
 
 <p align="center">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zedozed&bg_color=0D1117&color=FFFFFF&line=00DBDE&point=FC00FF&area=true&hide_border=true"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Zedozed&bg_color=0D1117&color=FFFFFF&line=00DBDE&point=FC00FF&area=true&hide_border=true"
     width="95%"
   />
 </p>
@@ -345,24 +347,31 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg"
-    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake-dark.svg" />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
+
+    <img
+      alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 <br>
 
 <!-- GITHUB ACHIEVEMENTS -->
-<h3 align="center">🏆 GitHub Achievements</h3>
+<!-- <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&margin-w=15&margin-h=15&no-frame=true"
-/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&margin-w=15&margin-h=15&no-frame=true"
+  />
 </p>
 
-<br>
+<br> -->
 
 <!-- ============================================================
                     SECTION 12: CODING PHILOSOPHY
