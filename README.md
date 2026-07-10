@@ -306,8 +306,8 @@
 <h3 align="center">🔥 Coding Statistics</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Zedozed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
+ <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zedozed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
     width="48%"
   />
   <img
@@ -347,17 +347,9 @@
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake-dark.svg" />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
-
-    <img
-      alt="Contribution Snake"
-      src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Zedozed/Zedozed/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 <br>
@@ -366,12 +358,12 @@
 <!-- <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img
+   <img
     src="https://github-profile-trophy.vercel.app/?username=Zedozed&theme=radical&margin-w=15&margin-h=15&no-frame=true"
   />
 </p>
 
-<br> -->
+<br>  -->
 
 <!-- ============================================================
                     SECTION 12: CODING PHILOSOPHY
@@ -393,16 +385,6 @@
 <!-- ============================================================
                     SECTION 13: MEMORABLE FOOTER
 ================================================================ -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=50" 
-    width="100%"
-  />
-</p>
-
-<br>
-
 <p align="center">
   <strong>💬 Let's build intelligent software that changes lives.</strong>
 </p>
@@ -444,6 +426,15 @@
 <p align="center">
   <strong>Made with ❤️ by Zedingil Zelalem</strong>
 </p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=50" 
+    width="100%"
+  />
+</p>
+
+<br>
 
 <!-- 
   🚀 THANK YOU FOR VISITING!
