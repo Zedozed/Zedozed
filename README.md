@@ -250,8 +250,7 @@
                     SECTION 9: PROFESSIONAL SUMMARY
 ================================================================ -->
 
-<h2 align="center">🎯 PROFESSIONAL SUMMARY</h2>
-
+<!-- <h2 align="center">🎯 PROFESSIONAL SUMMARY</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Profile-AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer-00DBDE?style=for-the-badge&logo=ai&logoColor=white" />
 </div>
@@ -282,7 +281,7 @@
     </tr>
   </table>
 </div>
-<br>
+<br> -->
 
 <!-- ============================================================
                     SECTION 11: GITHUB ANALYTICS
