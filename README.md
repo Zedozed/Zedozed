@@ -77,8 +77,6 @@
           <li>🧠 Machine Learning</li>
           <li>📊 Data Science</li>
           <li>🌐 Full Stack Engineering</li>
-          <li>☁️ Cloud Computing</li>
-          <li>⚙️ Software Architecture</li>
         </ul>
         <p>I enjoy transforming complex problems into elegant technology solutions.</p>
       </td>
@@ -172,11 +170,11 @@
     </tr>
     <tr>
       <td>⚙️ Backend</td>
-      <td>Node.js, Python, APIs, Microservices</td>
+      <td>Node.js, Python, APIs </td>
     </tr>
     <tr>
       <td>🗄️ Database</td>
-      <td>PostgreSQL, MySQL, MongoDB, Prisma</td>
+      <td>PostgreSQL, MySQL, Prisma</td>
     </tr>
     <tr>
       <td>☁️ Cloud</td>
@@ -184,11 +182,7 @@
     </tr>
     <tr>
       <td>🐳 DevOps</td>
-      <td>Docker, Kubernetes, CI/CD</td>
-    </tr>
-    <tr>
-      <td>🏗️ Architecture</td>
-      <td>Scalable Software Systems</td>
+      <td>Docker, CI/CD</td>
     </tr>
   </table>
 </div>
@@ -242,10 +236,6 @@
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
         <br><br>
         <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker" />
-        <br>
-        <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes" />
-        <br>
-        <img src="https://img.shields.io/badge/AWS-Cloud%20Platform-232F3E?style=flat-square&logo=amazon-aws" />
         <br>
         <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel" />
         <br>
