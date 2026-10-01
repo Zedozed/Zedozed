@@ -51,6 +51,7 @@
         <p>🇪🇹 Ethiopia</p>
         <p>☁️ Open to Work</p>
         <p>📧 zelalemc6@gmail.com</p>
+        <p>🚀 <a href="https://ethio-bacos-tech-hub.vercel.app/">ethio-bacos-tech-hub</a></p>
         <p>🌐 <a href="https://zedingil.vercel.app">zedingil.vercel.app</a></p>
         <p>🔥 Available for Projects</p>
         <br>
@@ -104,6 +105,10 @@
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <br><br>
+        <a href="https://ethio-bacos-tech-hub.vercel.app/" target="_blank">
+          <img src="https://shields.io" />
+        </a>
+         <br><br>
         <a href="https://zedingil.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
@@ -175,10 +180,6 @@
     <tr>
       <td>🗄️ Database</td>
       <td>PostgreSQL, MySQL, Prisma</td>
-    </tr>
-    <tr>
-      <td>☁️ Cloud</td>
-      <td>AWS, Google Cloud, Vercel</td>
     </tr>
     <tr>
       <td>🐳 DevOps</td>
