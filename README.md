@@ -51,8 +51,8 @@
         <p>🇪🇹 Ethiopia</p>
         <p>☁️ Open to Work</p>
         <p>📧 zelalemc6@gmail.com</p>
-        <p>🚀 <a href="https://ethio-bacos-tech-hub.vercel.app/">ethio-bacos-tech-hub</a></p>
-        <p>🌐 <a href="https://zedingil.vercel.app">zedingil.vercel.app</a></p>
+        <p>🚀 <a href="https://ethio-bacos-tech-hub.vercel.app/">Website</a></p>
+        <p>🌐 <a href="https://zedingil.vercel.app">Portfolio</a></p>
         <p>🔥 Available for Projects</p>
         <br>
         <img src="https://komarev.com/ghpvc/?username=Zedozed&label=Profile%20Views&color=00dbde&style=for-the-badge" />
@@ -96,44 +96,57 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>💼 Professional</h3>
-        <br>
-        <a href="https://www.linkedin.com/in/zedingil-zelalem3773" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="https://ethio-bacos-tech-hub.vercel.app/" target="_blank">
-          <img src="https://shields.io" />
-        </a>
-         <br><br>
-        <a href="https://zedingil.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="mailto:zelalemc6@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>🌐 Community</h3>
-        <br>
-        <a href="https://github.com/Zedozed" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="https://x.com/ZedingilZ" target="_blank">
-          <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="https://t.me/ET3773" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💼 Professional</h3>
+      <br>
+
+      <a href="https://www.linkedin.com/in/zedingil-zelalem3773" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+
+      <br><br>
+
+      <a href="https://ethio-bacos-tech-hub.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/EthioBacos%20Tech%20Hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+
+      <br><br>
+
+      <a href="https://zedingil.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+
+      <br><br>
+
+      <a href="mailto:zelalemc6@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+
+    <td width="50%" align="center">
+      <h3>🌐 Community</h3>
+      <br>
+
+      <a href="https://github.com/Zedozed" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+
+      <br><br>
+
+      <a href="https://x.com/ZedingilZ" target="_blank">
+        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+
+      <br><br>
+
+      <a href="https://t.me/ET3773" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
